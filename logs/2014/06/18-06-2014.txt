@@ -1,0 +1,1465 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 04:32:08", user_login_ip = "41.210.159.42" WHERE user_id = "136"; ##Performed At :18-06-2014 04:32:08; ##Accessed From :41.210.159.42; 
+
+ --------------------------------18-06-2014 04:32:08---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 07:19:20", user_login_ip = "192.168.5.1" WHERE user_id = "106"; ##Performed At :18-06-2014 07:19:20; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 07:19:20---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:137; ##Performed By UID:137; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 07:35:45", user_login_ip = "192.168.5.1" WHERE user_id = "137"; ##Performed At :18-06-2014 07:35:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 07:35:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 07:36:10", user_login_ip = "192.168.5.1" WHERE user_id = "141"; ##Performed At :18-06-2014 07:36:10; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 07:36:10---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:134; ##Performed By UID:134; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 07:53:03", user_login_ip = "192.168.5.1" WHERE user_id = "134"; ##Performed At :18-06-2014 07:53:03; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 07:53:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 07:53:25", user_login_ip = "192.168.5.1" WHERE user_id = "141"; ##Performed At :18-06-2014 07:53:25; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 07:53:25---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:125; ##Performed By UID:125; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 08:01:43", user_login_ip = "41.210.159.222" WHERE user_id = "125"; ##Performed At :18-06-2014 08:01:43; ##Accessed From :41.210.159.222; 
+
+ --------------------------------18-06-2014 08:01:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 08:08:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:08:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:120; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 08:08:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:08:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:140; ##Performed By UID:140; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 08:09:09", user_login_ip = "192.168.5.1" WHERE user_id = "140"; ##Performed At :18-06-2014 08:09:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:09:09---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 08:16:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:16:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:121; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 08:16:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:16:45---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 08:34:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:34:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:122; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 08:34:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:34:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 08:48:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:48:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:123; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 08:48:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 08:48:09---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 09:01:41; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:01:41---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:124; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 09:01:41; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:01:41---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:127; ##Performed By UID:127; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:06:11", user_login_ip = "192.168.5.1" WHERE user_id = "127"; ##Performed At :18-06-2014 09:06:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:06:11---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 09:08:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:91; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 09:08:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:00---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 09:08:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:109; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 09:08:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:21---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 09:08:41; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:41---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:118; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 09:08:41; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:08:41---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:13:35", user_login_ip = "41.202.233.180" WHERE user_id = "136"; ##Performed At :18-06-2014 09:13:35; ##Accessed From :41.202.233.180; 
+
+ --------------------------------18-06-2014 09:13:35---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:129; ##Performed By UID:129; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:21:04", user_login_ip = "192.168.5.1" WHERE user_id = "129"; ##Performed At :18-06-2014 09:21:04; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:21:04---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 09:36:30; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:36:30---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:125; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 09:36:30; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:36:30---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:36:45", user_login_ip = "192.168.5.1" WHERE user_id = "106"; ##Performed At :18-06-2014 09:36:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:36:45---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 09:50:53; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:50:53---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:126; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 09:50:53; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:50:53---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:134; ##Performed By UID:134; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:53:09", user_login_ip = "192.168.5.1" WHERE user_id = "134"; ##Performed At :18-06-2014 09:53:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:53:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:125; ##Performed By UID:125; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:53:34", user_login_ip = "192.168.5.1" WHERE user_id = "125"; ##Performed At :18-06-2014 09:53:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:53:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 09:53:36", user_login_ip = "192.168.5.1" WHERE user_id = "141"; ##Performed At :18-06-2014 09:53:36; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:53:36---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 09:55:52; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:55:52---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:127; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 09:55:52; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:55:52---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:125; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 09:58:17; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:58:17---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:113; ##Performed By UID:125; ##Message :Performed Update Operation; ##Performed At :18-06-2014 09:58:17; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 09:58:17---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:92; ##Performed By UID:125; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:08:36; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:08:36---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:125; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:08:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:08:37---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:08:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:08:37---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:128; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:08:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:08:37---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:08:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:08:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:10:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:10:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:11:55; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:11:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:128; ##Performed By UID:128; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 10:12:35", user_login_ip = "192.168.5.1" WHERE user_id = "128"; ##Performed At :18-06-2014 10:12:35; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:12:35---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:93; ##Performed By UID:125; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:12:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:12:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:125; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:12:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:12:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:21:24; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:21:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:129; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:21:24; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:21:24---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:39:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:39:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:130; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:39:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:39:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 10:57:04", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 10:57:04; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 10:57:04---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 10:59:50; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:59:50---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:131; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 10:59:50; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 10:59:50---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:01:01; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:01:01---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:132; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:01:01; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:01:01---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:08:23; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:08:23---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:133; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:08:23; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:08:23---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 11:10:18", user_login_ip = "192.168.5.1" WHERE user_id = "106"; ##Performed At :18-06-2014 11:10:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:10:18---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:11:33; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:11:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 11:11:50", user_login_ip = "192.168.5.1" WHERE user_id = "141"; ##Performed At :18-06-2014 11:11:50; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:11:50---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:12:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:12:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:134; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:12:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:12:27---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:16:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:16:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:135; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:16:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:16:49---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:17:39; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 11:17:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:136; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:17:39; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 11:17:39---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:20:12; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:20:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:137; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:20:12; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:20:12---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:23:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:23:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:138; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:23:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:23:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:128; ##Performed By UID:128; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 11:30:51", user_login_ip = "192.168.5.1" WHERE user_id = "128"; ##Performed At :18-06-2014 11:30:51; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:30:51---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:128; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:34:56; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:34:56---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:139; ##Performed By UID:128; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:34:56; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:34:56---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:118; ##Performed By UID:128; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:41:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:41:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:129; ##Performed By UID:129; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 11:41:11", user_login_ip = "41.210.154.253" WHERE user_id = "129"; ##Performed At :18-06-2014 11:41:11; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 11:41:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:61; ##Performed By UID:128; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:42:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:42:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:109; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:43:23; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 11:43:23---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:91; ##Performed By UID:128; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:46:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:46:37---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:46:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:46:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:140; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:46:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:46:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:91; ##Performed By UID:128; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:47:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:47:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:124; ##Performed By UID:124; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 11:51:21", user_login_ip = "192.168.5.1" WHERE user_id = "124"; ##Performed At :18-06-2014 11:51:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:51:21---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:51:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:51:44---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:141; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:51:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:51:44---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 11:57:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:57:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:142; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 11:57:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 11:57:11---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:13:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:13:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:143; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:13:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:13:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:113; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:21:27; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:21:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:125; ##Performed By UID:125; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 12:22:03", user_login_ip = "192.168.5.1" WHERE user_id = "125"; ##Performed At :18-06-2014 12:22:03; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:22:03---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:125; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 12:22:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:22:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:139; ##Performed By UID:125; ##Message :Performed Update Operation; ##Performed At :18-06-2014 12:22:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:22:34---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:24:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:24:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:144; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:24:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:24:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:70; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:24:34; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:24:34---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:129; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:24:34; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:24:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:70; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:26:39; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:26:39---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:27:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:27:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:145; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:27:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:27:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:48; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:27:59; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:27:59---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:129; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:27:59; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:27:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:109; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:34:59; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:34:59---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:129; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:35:00; ##Accessed From :41.210.154.253; 
+
+ --------------------------------18-06-2014 12:35:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='Number was changed per request'  ,customer_ticket_status='4' where customer_ticket_id='139'; ##Performed By UID:; ##Message :Performed Update Operation; ##Performed At :18-06-2014 12:35:08; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:35:08---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:35:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:35:37---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:146; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:35:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:35:37---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:39:01; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:39:01---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:147; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:39:01; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:39:01---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:106; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 12:39:31; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 12:39:31---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:135; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :18-06-2014 12:39:31; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 12:39:31---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:133; ##Performed By UID:133; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 12:41:25", user_login_ip = "192.168.5.1" WHERE user_id = "133"; ##Performed At :18-06-2014 12:41:25; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:41:25---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:106; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 12:41:26; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 12:41:26---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:141; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :18-06-2014 12:41:26; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 12:41:26---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:43:29; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:43:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:148; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:43:29; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:43:29---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:46:08; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:46:08---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:149; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:46:08; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:46:08---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:49:35; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 12:49:35---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 12:52:26", user_login_ip = "41.202.233.179" WHERE user_id = "136"; ##Performed At :18-06-2014 12:52:26; ##Accessed From :41.202.233.179; 
+
+ --------------------------------18-06-2014 12:52:26---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:55:02; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:55:02---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:150; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:55:02; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:55:02---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 12:59:38; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:59:38---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:151; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 12:59:38; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 12:59:38---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 13:24:59; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:24:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:152; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 13:24:59; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:24:59---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 13:34:20; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:34:20---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:153; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 13:34:20; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:34:20---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 13:39:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:39:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:154; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 13:39:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:39:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 13:40:32", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 13:40:32; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 13:40:32---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 13:40:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:40:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:155; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 13:40:49; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 13:40:49---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 13:56:43; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 13:56:43---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:156; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 13:56:43; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 13:56:43---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 13:56:49", user_login_ip = "41.202.240.7" WHERE user_id = "136"; ##Performed At :18-06-2014 13:56:49; ##Accessed From :41.202.240.7; 
+
+ --------------------------------18-06-2014 13:56:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:140; ##Performed By UID:140; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 14:13:40", user_login_ip = "192.168.5.1" WHERE user_id = "140"; ##Performed At :18-06-2014 14:13:40; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:13:40---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:14:51; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:14:51---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:157; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:14:51; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:14:51---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:125; ##Performed By UID:125; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 14:17:41", user_login_ip = "192.168.5.1" WHERE user_id = "125"; ##Performed At :18-06-2014 14:17:41; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:17:41---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:125; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 14:19:10; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:19:10---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:156; ##Performed By UID:125; ##Message :Performed Update Operation; ##Performed At :18-06-2014 14:19:10; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:19:10---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:35:50; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:35:50---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:158; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:35:50; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:35:50---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:39:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:39:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:159; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:39:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:39:21---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:141; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:45:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:45:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:160; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:45:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:45:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 14:45:21", user_login_ip = "41.202.233.187" WHERE user_id = "136"; ##Performed At :18-06-2014 14:45:21; ##Accessed From :41.202.233.187; 
+
+ --------------------------------18-06-2014 14:45:21---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:49:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:49:26---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:161; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:49:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:49:26---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:140; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 14:57:24; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:57:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:162; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 14:57:24; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 14:57:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 14:58:15", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 14:58:15; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 14:58:15---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:141; ##Performed By UID:141; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:06:28; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:06:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 15:07:15", user_login_ip = "192.168.5.1" WHERE user_id = "139"; ##Performed At :18-06-2014 15:07:16; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:07:16---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:140; ##Performed By UID:140; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:07:40; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:07:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:142; ##Performed By UID:142; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 15:18:05", user_login_ip = "192.168.5.1" WHERE user_id = "142"; ##Performed At :18-06-2014 15:18:05; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:18:05---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:129; ##Performed By UID:129; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 15:33:03", user_login_ip = "192.168.5.1" WHERE user_id = "129"; ##Performed At :18-06-2014 15:33:03; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:33:03---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:129; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 15:35:06; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:35:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:163; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:35:06; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:35:06---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 15:39:28; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:39:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:164; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:39:28; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:39:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:163; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:42:59; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 15:42:59---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 15:47:07; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:47:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:165; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 15:47:07; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:47:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:125; ##Performed By UID:125; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 15:58:29", user_login_ip = "192.168.5.1" WHERE user_id = "125"; ##Performed At :18-06-2014 15:58:29; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 15:58:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:134; ##Performed By UID:134; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:12:27", user_login_ip = "192.168.5.1" WHERE user_id = "134"; ##Performed At :18-06-2014 16:12:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:12:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:13:19", user_login_ip = "192.168.5.1" WHERE user_id = "139"; ##Performed At :18-06-2014 16:13:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:13:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:127; ##Performed By UID:127; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:16:23", user_login_ip = "192.168.5.1" WHERE user_id = "127"; ##Performed At :18-06-2014 16:16:23; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:16:23---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 16:17:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:17:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:152; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 16:17:45; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:17:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:129; ##Performed By UID:129; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:20:03", user_login_ip = "192.168.5.1" WHERE user_id = "129"; ##Performed At :18-06-2014 16:20:03; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:20:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:56; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:21:29; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:21:29---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:129; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:21:29; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:21:29---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 16:21:38; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:21:38---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:129; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 16:21:38; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:21:38---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:56; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:22:25; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:22:25---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:22:33; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:22:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:166; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:22:33; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:22:33---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:26:33; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:26:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:167; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:26:33; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:26:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:113; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:27:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:27:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:127; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:31:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:31:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:168; ##Performed By UID:127; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:31:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:31:11---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:34:13; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:34:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:169; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:34:13; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:34:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:152; ##Performed By UID:129; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:34:22; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:34:22---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='POS was disabled per the request'  ,customer_ticket_status='4' where customer_ticket_id='168'; ##Performed By UID:; ##Message :Performed Update Operation; ##Performed At :18-06-2014 16:35:06; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:35:06---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 16:39:28; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:39:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:170; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 16:39:28; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 16:39:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:50:35", user_login_ip = "115.112.154.158" WHERE user_id = "106"; ##Performed At :18-06-2014 16:50:35; ##Accessed From :115.112.154.158; 
+
+ --------------------------------18-06-2014 16:50:35---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 16:52:57", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 16:52:57; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 16:52:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:165; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:00:03; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:00:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:134; ##Performed By UID:134; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 17:03:18", user_login_ip = "192.168.5.1" WHERE user_id = "134"; ##Performed At :18-06-2014 17:03:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:03:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:114; ##Performed By UID:134; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:08:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:08:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 17:12:22", user_login_ip = "192.168.5.1" WHERE user_id = "139"; ##Performed At :18-06-2014 17:12:22; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:12:22---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 17:17:04; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:17:04---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:171; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:17:04; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:17:04---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 17:30:40; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:30:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:172; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:30:40; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:30:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:127; ##Performed By UID:127; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 17:31:27", user_login_ip = "192.168.5.1" WHERE user_id = "127"; ##Performed At :18-06-2014 17:31:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:31:27---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:127; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 17:32:08; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:32:08---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:172; ##Performed By UID:127; ##Message :Performed Update Operation; ##Performed At :18-06-2014 17:32:08; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:32:08---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:35:44; ##Accessed From :115.112.154.158; 
+
+ --------------------------------18-06-2014 17:35:44---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:142; ##Performed By UID:142; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 17:35:55", user_login_ip = "115.112.154.158" WHERE user_id = "142"; ##Performed At :18-06-2014 17:35:55; ##Accessed From :115.112.154.158; 
+
+ --------------------------------18-06-2014 17:35:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 17:39:37", user_login_ip = "192.168.5.1" WHERE user_id = "136"; ##Performed At :18-06-2014 17:39:37; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:39:37---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:135; ##Performed By UID:136; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:46:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:46:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:169; ##Performed By UID:136; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:51:22; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:51:22---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 17:52:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:52:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:173; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:52:39; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:52:39---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:169; ##Performed By UID:136; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:54:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:54:11---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:136; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 17:54:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:54:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:141; ##Performed By UID:136; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 17:58:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 17:58:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:132; ##Performed By UID:132; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:03:42", user_login_ip = "192.168.5.1" WHERE user_id = "132"; ##Performed At :18-06-2014 18:03:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:03:42---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:136; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 18:04:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:04:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:155; ##Performed By UID:136; ##Message :Performed Update Operation; ##Performed At :18-06-2014 18:04:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:04:42---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:132; ##Performed By UID:132; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:05:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:05:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:07:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:07:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:174; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:07:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:07:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:10:09", user_login_ip = "192.168.5.1" WHERE user_id = "136"; ##Performed At :18-06-2014 18:10:09; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:10:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:127; ##Performed By UID:127; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:15:00", user_login_ip = "192.168.5.1" WHERE user_id = "127"; ##Performed At :18-06-2014 18:15:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:15:00---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:136; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 18:15:31; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:15:31---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:155; ##Performed By UID:136; ##Message :Performed Update Operation; ##Performed At :18-06-2014 18:15:31; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:15:31---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:15:36; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:15:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:175; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:15:36; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:15:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:137; ##Performed By UID:137; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:20:57", user_login_ip = "192.168.5.1" WHERE user_id = "137"; ##Performed At :18-06-2014 18:20:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:20:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:22:53; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:22:53---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:176; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:22:53; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:22:53---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:137; ##Message :Insert into su_fwd_tickets; ##Performed At :18-06-2014 18:23:55; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:23:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:136; ##Performed By UID:137; ##Message :Performed Update Operation; ##Performed At :18-06-2014 18:23:55; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:23:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:28:17", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 18:28:17; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 18:28:17---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:31:54; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:31:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:177; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:31:54; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:31:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:33:13", user_login_ip = "192.168.5.1" WHERE user_id = "136"; ##Performed At :18-06-2014 18:33:13; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:33:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:132; ##Performed By UID:132; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 18:33:57", user_login_ip = "192.168.5.1" WHERE user_id = "132"; ##Performed At :18-06-2014 18:33:57; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:33:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:51:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:51:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:178; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:51:11; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:51:11---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 18:54:04; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:54:04---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:179; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 18:54:04; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 18:54:04---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:06:54; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:06:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:180; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:06:54; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:06:54---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:08:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:08:44---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:181; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:08:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:08:44---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:134; ##Performed By UID:134; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 19:15:55", user_login_ip = "41.202.233.189" WHERE user_id = "134"; ##Performed At :18-06-2014 19:15:55; ##Accessed From :41.202.233.189; 
+
+ --------------------------------18-06-2014 19:15:55---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:16:32; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:16:32---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:182; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:16:32; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:16:32---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:20:25; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:20:25---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:183; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:20:25; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:20:25---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:22:12; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:22:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:184; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:22:12; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:22:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:58; ##Performed By UID:134; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:25:13; ##Accessed From :41.202.233.189; 
+
+ --------------------------------18-06-2014 19:25:13---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:44:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:44:26---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:185; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:44:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:44:26---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:47:12; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:47:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 19:47:55", user_login_ip = "192.168.5.1" WHERE user_id = "139"; ##Performed At :18-06-2014 19:47:55; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:47:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:161; ##Performed By UID:134; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:48:35; ##Accessed From :41.202.233.189; 
+
+ --------------------------------18-06-2014 19:48:35---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:54:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:54:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:186; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:54:27; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:54:27---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 19:55:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:55:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:187; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 19:55:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 19:55:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:155; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:01:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:01:44---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:07:47; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:07:47---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:188; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:07:47; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:07:47---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:09:59; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:09:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:189; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:09:59; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:09:59---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:22:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:22:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:190; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:22:18; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:22:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:137; ##Performed By UID:137; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 20:31:00", user_login_ip = "192.168.5.1" WHERE user_id = "137"; ##Performed At :18-06-2014 20:31:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:31:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:136; ##Performed By UID:137; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:31:35; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:31:35---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:32:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:32:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:191; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:32:42; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:32:42---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:136; ##Performed By UID:137; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:34:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:34:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_update_info; ##Performed to ID:1; ##Performed By UID:137; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:34:44; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:34:44---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:37:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:37:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:192; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:37:21; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:37:21---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:39:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:39:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:193; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:39:34; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:39:34---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:142; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:46:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:46:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:194; ##Performed By UID:142; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:46:00; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:46:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 20:50:47", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 20:50:47; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 20:50:47---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 20:52:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:52:43---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:195; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 20:52:43; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 20:52:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 21:31:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 21:31:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:196; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 21:31:19; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 21:31:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:136; ##Performed By UID:136; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 21:40:14", user_login_ip = "41.202.240.4" WHERE user_id = "136"; ##Performed At :18-06-2014 21:40:14; ##Accessed From :41.202.240.4; 
+
+ --------------------------------18-06-2014 21:40:14---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:142; ##Performed By UID:142; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 21:47:26", user_login_ip = "192.168.5.1" WHERE user_id = "142"; ##Performed At :18-06-2014 21:47:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 21:47:26---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:139; ##Message :Performed INSERT Operation; ##Performed At :18-06-2014 21:51:15; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 21:51:15---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:197; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 21:51:15; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 21:51:15---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-06-18 22:17:49", user_login_ip = "41.220.10.11" WHERE user_id = "106"; ##Performed At :18-06-2014 22:17:49; ##Accessed From :41.220.10.11; 
+
+ --------------------------------18-06-2014 22:17:49---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:139; ##Performed By UID:139; ##Message :Performed UPDATE Operation; ##Performed At :18-06-2014 23:00:26; ##Accessed From :192.168.5.1; 
+
+ --------------------------------18-06-2014 23:00:26---------------------------------
+
+

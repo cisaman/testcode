@@ -1,0 +1,70 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-26 07:45:07", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :26-08-2014 07:45:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 07:45:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3911; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 07:45:36; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 07:45:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 07:46:02; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 07:46:02---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 08:18:47; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 08:18:47---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 08:20:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 08:20:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 08:22:13; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 08:22:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 08:23:00; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 08:23:00---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 08:31:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 08:31:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-26 09:41:20", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :26-08-2014 09:41:20; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 09:41:20---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-26 10:34:18", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :26-08-2014 10:34:18; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 10:34:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:4; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 11:35:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 11:35:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:5; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 11:36:21; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 11:36:21---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:3; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 12:14:11; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 12:14:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:4; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :26-08-2014 12:16:19; ##Accessed From :127.0.0.1; 
+
+ --------------------------------26-08-2014 12:16:19---------------------------------
+
+

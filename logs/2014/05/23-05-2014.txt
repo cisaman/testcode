@@ -1,0 +1,425 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 05:43:46", user_login_ip = "115.112.154.146" WHERE user_id = "17"; ##Performed At :23-05-2014 05:43:46; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 05:43:46---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :template; ##Performed to ID:19; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 07:38:56; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:38:56---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :template; ##Performed to ID:19; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 07:38:56; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:38:56---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :template; ##Performed to ID:10; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 07:39:09; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:39:09---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :template; ##Performed to ID:10; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 07:39:09; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:39:09---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :template; ##Performed to ID:10; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 07:39:09; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:39:09---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:17; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 07:43:14; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 07:43:14---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:23; ##Performed By UID:23; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 08:19:22", user_login_ip = "128.72.138.105" WHERE user_id = "23"; ##Performed At :23-05-2014 08:19:22; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:19:22---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:23; ##Performed By UID:23; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 08:26:08; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:26:08---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:23; ##Performed By UID:23; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 08:27:44", user_login_ip = "128.72.138.105" WHERE user_id = "23"; ##Performed At :23-05-2014 08:27:44; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:27:44---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 08:28:54", user_login_ip = "128.72.138.105" WHERE user_id = "17"; ##Performed At :23-05-2014 08:28:54; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:28:54---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 08:29:12; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:29:12---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :user; ##Performed to ID:66; ##Performed By UID:23; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 08:31:26; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:31:26---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:68; ##Performed By UID:23; ##Message :UPDATE su_user set user_notification = "mail"  WHERE user_id = 68; ##Performed At :23-05-2014 08:31:59; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:31:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:68; ##Performed By UID:68; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 08:32:22", user_login_ip = "128.72.138.105" WHERE user_id = "68"; ##Performed At :23-05-2014 08:32:22; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:32:22---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:68; ##Performed By UID:68; ##Message :Performed Update Operation; ##Performed At :23-05-2014 08:32:31; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:32:31---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:68; ##Performed By UID:68; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 08:32:31", user_login_ip = "128.72.138.105" WHERE user_id = "68"; ##Performed At :23-05-2014 08:32:31; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 08:32:31---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_department; ##Performed to ID:1; ##Performed By UID:23; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 09:29:59; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:29:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:23; ##Message :UPDATE su_user set user_notification = "both"  WHERE user_id = 69; ##Performed At :23-05-2014 09:32:40; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:32:40---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_dept_head_schedule; ##Performed to ID:1; ##Performed By UID:23; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 09:32:40; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:32:40---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:68; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 09:33:56; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:33:56---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:69; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:35:20", user_login_ip = "82.145.210.157" WHERE user_id = "69"; ##Performed At :23-05-2014 09:35:20; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:35:20---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:69; ##Message :Performed Update Operation; ##Performed At :23-05-2014 09:35:28; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:35:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:69; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:35:28", user_login_ip = "82.145.210.157" WHERE user_id = "69"; ##Performed At :23-05-2014 09:35:28; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:35:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:38:27", user_login_ip = "115.112.154.158" WHERE user_id = "17"; ##Performed At :23-05-2014 09:38:27; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:38:27---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:38:40; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:38:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:39:10", user_login_ip = "115.112.154.158" WHERE user_id = "17"; ##Performed At :23-05-2014 09:39:10; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:39:10---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:39:35; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:39:35---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:39:57", user_login_ip = "115.112.154.158" WHERE user_id = "17"; ##Performed At :23-05-2014 09:39:57; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:39:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:69; ##Message :Insert into su_fwd_tickets; ##Performed At :23-05-2014 09:39:57; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:39:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:35; ##Performed By UID:69; ##Message :Performed Update Operation; ##Performed At :23-05-2014 09:39:57; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:39:57---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :user; ##Performed to ID:64; ##Performed By UID:17; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 09:41:10; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:41:10---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:70; ##Performed By UID:17; ##Message :UPDATE su_user set user_notification = "mail"  WHERE user_id = 70; ##Performed At :23-05-2014 09:42:08; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:42:08---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_dept_head_schedule; ##Performed to ID:1; ##Performed By UID:17; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 09:42:08; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:42:08---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:42:27; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:42:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:70; ##Performed By UID:70; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:42:49", user_login_ip = "115.112.154.158" WHERE user_id = "70"; ##Performed At :23-05-2014 09:42:49; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:42:49---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:70; ##Performed By UID:70; ##Message :Performed Update Operation; ##Performed At :23-05-2014 09:43:06; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:43:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:70; ##Performed By UID:70; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:43:06", user_login_ip = "115.112.154.158" WHERE user_id = "70"; ##Performed At :23-05-2014 09:43:06; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:43:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:48:07", user_login_ip = "115.112.154.146" WHERE user_id = "17"; ##Performed At :23-05-2014 09:48:07; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 09:48:07---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:17; ##Performed By UID:17; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:54:42; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 09:54:42---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :user; ##Performed to ID:69; ##Performed By UID:23; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:55:42; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:55:42---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:69; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:55:56; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:55:56---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :user; ##Performed to ID:69; ##Performed By UID:23; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:56:15; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:56:15---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:69; ##Performed By UID:69; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:56:16", user_login_ip = "82.145.210.157" WHERE user_id = "69"; ##Performed At :23-05-2014 09:56:16; ##Accessed From :82.145.210.157; 
+
+ --------------------------------23-05-2014 09:56:16---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :user; ##Performed to ID:17; ##Performed By UID:23; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 09:56:52; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:56:52---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :user; ##Performed to ID:65; ##Performed By UID:23; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 09:56:52; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:56:52---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:55; ##Performed By UID:55; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 09:59:02", user_login_ip = "115.112.154.146" WHERE user_id = "55"; ##Performed At :23-05-2014 09:59:02; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 09:59:02---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:55; ##Performed By UID:55; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:59:11; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 09:59:11---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:71; ##Performed By UID:23; ##Message :UPDATE su_user set user_notification = "mail"  WHERE user_id = 71; ##Performed At :23-05-2014 09:59:17; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 09:59:17---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:70; ##Performed By UID:70; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 09:59:48; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 09:59:48---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :su_user; ##Performed to ID:21; ##Performed By UID:23; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 10:00:26; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:00:26---------------------------------
+
+
+##Performed Operation : DELETE; ##Performed On :department; ##Performed to ID:21; ##Performed By UID:23; ##Message :Performed Delete Operation; ##Performed At :23-05-2014 10:00:26; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:00:26---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_template; ##Performed to ID:1; ##Performed By UID:23; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 10:01:43; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:01:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_country; ##Performed to ID:1; ##Performed By UID:23; ##Message :Performed INSERT Operation; ##Performed At :23-05-2014 10:05:57; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:05:57---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_configuration; ##Performed to ID:company_logo; ##Performed By UID:23; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:06:29; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:06:29---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:23; ##Performed By UID:23; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:06:34; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:06:34---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:18; ##Performed By UID:18; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:06:57", user_login_ip = "115.112.154.146" WHERE user_id = "18"; ##Performed At :23-05-2014 10:06:57; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:06:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:23; ##Performed By UID:23; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:07:05", user_login_ip = "128.72.138.105" WHERE user_id = "23"; ##Performed At :23-05-2014 10:07:05; ##Accessed From :128.72.138.105; 
+
+ --------------------------------23-05-2014 10:07:05---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:18; ##Performed By UID:18; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:07:29; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:07:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:18; ##Performed By UID:18; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:12:03", user_login_ip = "115.112.154.146" WHERE user_id = "18"; ##Performed At :23-05-2014 10:12:03; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:12:03---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:18; ##Performed By UID:18; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:38:45; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:38:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:39:03", user_login_ip = "115.112.154.146" WHERE user_id = "20"; ##Performed At :23-05-2014 10:39:03; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:39:03---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:40:03; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:40:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:40:06", user_login_ip = "115.112.154.146" WHERE user_id = "20"; ##Performed At :23-05-2014 10:40:06; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:40:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:72; ##Performed By UID:20; ##Message :UPDATE su_user set user_notification = "mail"  WHERE user_id = 72; ##Performed At :23-05-2014 10:41:13; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:41:13---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:41:51; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:41:51---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:42:15", user_login_ip = "115.112.154.146" WHERE user_id = "20"; ##Performed At :23-05-2014 10:42:15; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:42:15---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:47:09; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:47:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:72; ##Performed By UID:72; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:47:19", user_login_ip = "115.112.154.146" WHERE user_id = "72"; ##Performed At :23-05-2014 10:47:19; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:47:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:72; ##Performed By UID:72; ##Message :Performed Update Operation; ##Performed At :23-05-2014 10:47:29; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:47:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:72; ##Performed By UID:72; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:47:29", user_login_ip = "115.112.154.146" WHERE user_id = "72"; ##Performed At :23-05-2014 10:47:29; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:47:29---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:72; ##Performed By UID:72; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:49:24; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:49:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:50:55", user_login_ip = "115.112.154.146" WHERE user_id = "20"; ##Performed At :23-05-2014 10:50:55; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:50:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:20; ##Message :UPDATE su_user set user_notification = "mail"  WHERE user_id = 73; ##Performed At :23-05-2014 10:51:25; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:51:25---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:51:54; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:51:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:52:17", user_login_ip = "115.112.154.146" WHERE user_id = "73"; ##Performed At :23-05-2014 10:52:17; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:17---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :Performed Update Operation; ##Performed At :23-05-2014 10:52:23; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:23---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:52:23", user_login_ip = "115.112.154.146" WHERE user_id = "73"; ##Performed At :23-05-2014 10:52:23; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:23---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :Performed UPDATE Operation; ##Performed At :23-05-2014 10:52:33; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:; ##Message :Performed Update Operation; ##Performed At :23-05-2014 10:52:40; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:; ##Message :Performed Update Operation; ##Performed At :23-05-2014 10:52:41; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:52:41---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:53:16", user_login_ip = "115.112.154.146" WHERE user_id = "73"; ##Performed At :23-05-2014 10:53:16; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:53:16---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :Performed Update Operation; ##Performed At :23-05-2014 10:53:24; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:53:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:73; ##Performed By UID:73; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 10:53:24", user_login_ip = "115.112.154.146" WHERE user_id = "73"; ##Performed At :23-05-2014 10:53:24; ##Accessed From :115.112.154.146; 
+
+ --------------------------------23-05-2014 10:53:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:20; ##Performed By UID:20; ##Message :UPDATE su_user SET user_last_login = "2014-05-23 11:30:35", user_login_ip = "115.112.154.158" WHERE user_id = "20"; ##Performed At :23-05-2014 11:30:35; ##Accessed From :115.112.154.158; 
+
+ --------------------------------23-05-2014 11:30:35---------------------------------
+
+

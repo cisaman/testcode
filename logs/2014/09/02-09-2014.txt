@@ -1,0 +1,15 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-09-02 10:01:40", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :02-09-2014 10:01:40; ##Accessed From :127.0.0.1; 
+
+ --------------------------------02-09-2014 10:01:40---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:106; ##Message :Insert into su_fwd_tickets; ##Performed At :02-09-2014 15:21:37; ##Accessed From :127.0.0.1; 
+
+ --------------------------------02-09-2014 15:21:37---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3909; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :02-09-2014 15:21:37; ##Accessed From :127.0.0.1; 
+
+ --------------------------------02-09-2014 15:21:37---------------------------------
+
+

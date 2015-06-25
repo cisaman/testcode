@@ -1,0 +1,50 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-30 08:18:26", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :30-08-2014 08:18:26; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 08:18:26---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3a9c157549b29d7d72b73102f6d638bdqubeshomepage_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :30-08-2014 08:36:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 08:36:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:8fdcdbb2ad865244d46fb3ec5fe894cfqubes_memberadmin_businessconfigurationscreen_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :30-08-2014 08:36:56; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 08:36:56---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_configuration; ##Performed to ID:resoltime; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :30-08-2014 11:05:04; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 11:05:04---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_configuration; ##Performed to ID:resoltime; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :30-08-2014 11:05:37; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 11:05:37---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='fd'  ,customer_ticket_status='4' where customer_ticket_id='3912'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :30-08-2014 11:31:16; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 11:31:16---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :30-08-2014 12:59:32; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 12:59:32---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-30 13:12:00", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :30-08-2014 13:12:00; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 13:12:00---------------------------------
+
+
+##Performed Operation : UPDATE; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :30-08-2014 14:56:12; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 14:56:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-30 14:56:26", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :30-08-2014 14:56:26; ##Accessed From :127.0.0.1; 
+
+ --------------------------------30-08-2014 14:56:26---------------------------------
+
+

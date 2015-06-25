@@ -1,0 +1,210 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-09-08 09:12:54", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :08-09-2014 09:12:54; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:12:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:46:06; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:46:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:47:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:47:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:48:12; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:48:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:48:16; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:48:16---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:49:43; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:49:43---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:50:02; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:50:02---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:51:18; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:51:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:54:01; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:54:01---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:56:13; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:56:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:57:28; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:57:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:58:02; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:58:02---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3913'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 09:58:51; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 09:58:51---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3911'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:04:54; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:04:54---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3911'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:06:03; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:06:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3911'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:06:29; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:06:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:07:46; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:07:46---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:08:18; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:08:18---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:08:46; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:08:46---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:09:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:09:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:11:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:11:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:12:02; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:12:02---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:14:04; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:14:04---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:23:15; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:23:15---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:23:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:23:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:24:09; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:24:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:25:13; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:25:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:25:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:25:48---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:27:13; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:27:13---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:27:24; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:27:24---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:27:45; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:27:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:28:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:28:05---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:28:30; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:28:30---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:29:12; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:29:12---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:29:36; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:29:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:30:28; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:30:28---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:32:03; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:32:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:32:45; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:32:45---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:33:36; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:33:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:34:09; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:34:09---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:34:36; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:34:36---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:Update `su_customer_ticket` set close_reason ='for good'  ,customer_ticket_status='4' where customer_ticket_id='3909'; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :08-09-2014 10:34:58; ##Accessed From :127.0.0.1; 
+
+ --------------------------------08-09-2014 10:34:58---------------------------------
+
+

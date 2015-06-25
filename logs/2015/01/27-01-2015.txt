@@ -1,0 +1,5 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2015-01-27 07:00:46", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :27-01-2015 07:00:46; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-01-2015 07:00:46---------------------------------
+
+

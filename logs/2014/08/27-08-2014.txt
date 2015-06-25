@@ -1,0 +1,95 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-27 09:19:25", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :27-08-2014 09:19:25; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 09:19:25---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_ticket_status; ##Performed to ID:4; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :27-08-2014 09:39:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 09:39:33---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:25:02; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:25:02---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:27:30; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:27:30---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:43:03; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:43:03---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:45:23; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:45:23---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:55:19; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:55:19---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 12:58:28; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 12:58:28---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 13:05:06; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 13:05:06---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 15:42:39; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 15:42:39---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 15:49:08; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 15:49:08---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 15:56:43; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 15:56:43---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:06:25; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:06:25---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:06:41; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:06:41---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:07:16; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:07:16---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:12:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:12:55---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:18:18; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:18:18---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:21:16; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:21:16---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_permission; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :27-08-2014 16:21:23; ##Accessed From :127.0.0.1; 
+
+ --------------------------------27-08-2014 16:21:23---------------------------------
+
+

@@ -1,0 +1,335 @@
+##Performed Operation : Update; ##Performed On :su_user; ##Performed to ID:106; ##Performed By UID:106; ##Message :UPDATE su_user SET user_last_login = "2014-08-20 08:35:19", user_login_ip = "127.0.0.1" WHERE user_id = "106"; ##Performed At :20-08-2014 08:35:19; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 08:35:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:2eea0a5fb2c6085493cd4f653e1ff10a582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 10:44:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 10:44:48---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:0abbb65687b4eaa72d80a5b2f3bd4ab2782014162621Project-brief.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 10:47:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 10:47:48---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:78e0e0c3d209f6bfc590dbff8d86d6b4782014162621Offer_Template.xls; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 10:56:29; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 10:56:29---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:b3e59bcfda16d33d78cbbc907bab99f8sites.xml; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 10:56:30; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 10:56:30---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:f441d4655e9fe7e6e1186605dc86e17c782014162621Offer_Template.xls; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 10:59:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 10:59:48---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 11:23:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:23:33---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 11:24:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:24:55---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 11:24:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:24:55---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 11:24:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:24:55---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 11:24:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:24:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3905; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 11:24:55; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 11:24:55---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:28899247bcae57d7f7a9f68785c844c2sites.xml; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:06:03; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:06:03---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:43ecddf1e1acb7c7f6d639d78e6b6566582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:11:46; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:11:46---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:d98aea1878b329b428102f46c23e24d7782014162621Project-brief.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:12:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:12:05---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:9fa1ac74ed6291db776c55e0e62de46dProjectChecklist.doc; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:12:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:12:07---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:13:31; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:13:31---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:13:32; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:13:32---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:13:32; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:13:32---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3906; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:13:32; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:13:32---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:dd9e4620e075f03250cb55c2d00484e4782014162621Project-brief.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:14:01; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:14:01---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:dd9e4620e075f03250cb55c2d00484e4782014162621Project-brief.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:15:46; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:15:46---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:8f7d158816cbbac2d7ab2d85ce3c6967582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:15:52; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:15:52---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:8f7d158816cbbac2d7ab2d85ce3c6967582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:15:53; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:15:53---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:17:00; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:17:00---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:18:20; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:18:20---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3908; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:18:20; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:18:20---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:21:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:21:05---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:21:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:21:05---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:21:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:21:05---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:21:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:21:05---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3909; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:21:05; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:21:05---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_customer_ticket; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:22:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:22:48---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:22:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:22:48---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:22:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:22:48---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:22:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:22:48---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3910; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:22:48; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:22:48---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3062386833dee0b23ef52a79ab9c87bftalapp presentation.odp; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:23:25; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:23:25---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:66d74d090de332467803ac4b0f7a6db1Bhaiyyalal_Birle2062014.doc; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:24:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:24:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:76891d6fe35291f259d5dad57cf8235c582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:32:39; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:32:39---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:35:57; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:35:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:35:57; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:35:57---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3910; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:35:57; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:35:57---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 12:55:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:55:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3910; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 12:55:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:55:07---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:18e810484a02105e98b952edde43df8b582014195442HELPDESKRECT.pdf; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:55:32; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:55:32---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:13b0066af80a00e784c6ab167f82362d782014162621Offer_Template.xls; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 12:55:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 12:55:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:f45c5cb4e458988c1fafd061d9aaeb05qubes_memberadmin_businessconfigurationscreen_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 14:07:59; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:07:59---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3910; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 14:08:07; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:08:07---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 14:09:06; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:09:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3909; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 14:09:06; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:09:06---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:4f0509a9e22bf646fa6451a9e80d826cqubes_memberadmin_businessconfigurationscreen_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 14:09:33; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:09:33---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3909; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 14:09:40; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:09:40---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:bb1b1c2b2e55b3036020733b29c78b8aqubes_memberadmin_silver_myaccount_mysettings_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 14:18:42; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:18:42---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 14:18:52; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:18:52---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3909; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 14:18:52; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:18:52---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:106; ##Message :Insert into su_fwd_tickets; ##Performed At :20-08-2014 14:45:19; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:45:19---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3515; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 14:45:19; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:45:19---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_fwd_tickets; ##Performed to ID:1; ##Performed By UID:106; ##Message :Insert into su_fwd_tickets; ##Performed At :20-08-2014 14:47:14; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:47:14---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3515; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 14:47:14; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 14:47:14---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 16:09:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:27---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 16:09:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:27---------------------------------
+
+
+##Performed Operation : INSERT; ##Performed On :su_attachement; ##Performed to ID:1; ##Performed By UID:106; ##Message :Performed INSERT Operation; ##Performed At :20-08-2014 16:09:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:3908; ##Performed By UID:106; ##Message :Performed UPDATE Operation; ##Performed At :20-08-2014 16:09:27; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:27---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:1f5bcb2a72e69315ba91f339b80891efqubeshomepage_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 16:09:52; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:52---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:2c8ffa69d9d2cf233f63fe704ec4d566qubeshomepage_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 16:09:56; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:56---------------------------------
+
+
+##Performed Operation : Update; ##Performed On :su_customer_ticket; ##Performed to ID:7e97b8f1e900d8eb84a2b504e7ca4250qubes_memberadmin_silver_myaccount_mysettings_rev2.jpg; ##Performed By UID:106; ##Message :Performed Update Operation; ##Performed At :20-08-2014 16:09:58; ##Accessed From :127.0.0.1; 
+
+ --------------------------------20-08-2014 16:09:58---------------------------------
+
+
